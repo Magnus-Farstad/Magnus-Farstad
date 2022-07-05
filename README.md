@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Welcome to my portfolio!
+### Welcome to my portfolio
 I am a student at NTNU, studying Bachelor of Engineering Computer Science.
 
 ## Connect with me!
