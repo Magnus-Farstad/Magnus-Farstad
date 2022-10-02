@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Welcome to my portfolio!
-I am a student at NTNU, studying Bachelor of Engineering Computer Science.
+I am a student at NTNU Trondehim, studying Bachelor of Engineering Computer Science. I am currently studying abroad in USA at University of California San Diego as part of an exchange program with NTNU Trondheim.
 
 ## Connect with me!
 <p align="left" margin-bottom="3rem">
