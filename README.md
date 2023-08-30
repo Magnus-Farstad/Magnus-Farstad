@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Welcome to my portfolio!
-I am a student at NTNU Trondheim, studying Bachelor of Engineering in Computer Science. I am currently studying abroad in USA at University of California San Diego as part of an exchange program with NTNU Trondheim.  
+I am a student at NTNU (Norwegian University of Science and Technology) Trondheim. I have a Bachelor of Engineering in Computer Science degree from NTNU and University of California San Diego. Currently I am on a MSc in Computer Science.
 
 
 ## Connect with me!
