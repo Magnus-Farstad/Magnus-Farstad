@@ -21,5 +21,4 @@ I am a student at NTNU (Norwegian University of Science and Technology) Trondhei
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=magnus-farstad&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats-magnus-farstad.vercel.app/api/top-langs/?username=magnus-farstad&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
